@@ -1,5 +1,5 @@
-<p align="center" style="color: #9900FF">
-<b>ABC College Library Board website</b>
+<p align="center" style=color: #9900FF>
+<b><h1>ABC College Library Board website</h1></b>
 <label for="introduction">ABC College Library</label>
      <body style="background-color:#0000FF ;">
       <style>
