@@ -1,5 +1,5 @@
 <p align="center">
-<font color="purple">
+<font color="#9900ff">
 # ABC College Library Board website
 </font>
   </p>
