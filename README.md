@@ -127,3 +127,12 @@
         Copyright &copy; 2023, ABC College Library Board. All rights reserved.
     
 
+converter := md.NewConverter("", true, nil)
+
+html = `<strong>Important</strong>`
+
+markdown, err := converter.ConvertString(html)
+if err != nil {
+  log.Fatal(err)
+}
+fmt.Println("md ->", markdown)
