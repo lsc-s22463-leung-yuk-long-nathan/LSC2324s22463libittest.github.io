@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>ABC College Library Board website</title>
-    <style>
+
+
+    ABC College Library Board website
+    
         body {
             color: black;
         }
@@ -14,13 +13,13 @@
         }
         
         .box {
-            background-color: blue;
+            background-color: white;
             padding: 20px;
             margin-bottom: 20px;
         }
         
         .box-title {
-            color: white;
+            color: blue;
             font-weight: bold;
             margin-bottom: 10px;
         }
@@ -63,62 +62,68 @@
             color: red;
             text-align: center;
         }
-    </style>
-</head>
-<body>
-    <h1>ABC College Library Board website</h1>
     
-    <div class="box">
-        <h2 class="box-title">ABC College Library</h2>
-    </div>
+
+
+    # ABC College Library Board website
     
-    <div class="box">
-        <h2 class="box-title">Announcements</h2>
+    
+        ABC College Library
+            xxx
+    
+    
+    
+        Announcements
         <ul class="announcements">
-            <li>[Announcement 1]</li>
-            <li>[Announcement 2]</li>
-            <li>[Announcement 3]</li>
-        </ul>
-    </div>
+            * xxx
+            * xxx
+            * xxx
+        
     
-    <div class="box">
-        <h2 class="box-title">Rules</h2>
-        <table>
-            <tr>
-                <th>DOs</th>
-                <th>Column 2</th>
-                <th>Column 3</th>
-                <th>Column 4</th>
-                <th>Column 5</th>
-            </tr>
-            <tr>
-                <td>[Rule 1]</td>
-                <td>[Rule 2]</td>
-                <td>[Rule 3]</td>
-                <td>[Rule 4]</td>
-                <td>[Rule 5]</td>
-            </tr>
-        </table>
-    </div>
     
-    <div class="picture">
-        <h2 class="picture-title">Words</h2>
-        <a href="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/">
-            <img src="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/img/mfccd-display.gif" alt="Words" width="200" height="200">
-        </a>
-    </div>
     
-    <div class="box">
-        <h2 class="box-title">Contact</h2>
+        Rules
+        
+            
+                DOs
+                DON'Ts
+            
+            
+                xxx
+                xxx
+            
+            
+                xxx
+                xxx
+            
+            
+                xxx
+                xxx
+            
+            
+                xxx
+                xxx
+            
+        
+    
+    
+    
+        粵語審音配詞字庫
+        [
+            
+        ](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
+    
+    
+    
+        Contact
         <ol class="contact">
-            <li>[Person 1]</li>
-            <li>[Person 2]</li>
-            <li>[Person 3]</li>
-        </ol>
-    </div>
+            1. xxx
+            1. xxx
+            1. xxx
+        
     
-    <div class="copyright">
-        <p>Copyright &copy; 2023, ABC College Library Board. All rights reserved.</p>
-    </div>
-</body>
-</html>
+    
+    
+        Copyright &copy; 2023, ABC College Library Board. All rights reserved.
+    
+
